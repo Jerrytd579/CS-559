@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+*.zip
+.zip
+*/.zip/*
+
+'Project 1'/S21_P1_trainset.csv
+'Project 3'/properties_2016.csv
+'HW4'/mnist_test.csv
+'HW4'/mnist_train.csv
+HW4/mnist_test.csv
+HW4/mnist_train.csv
+Project 3/properties_2016.csv
+Project 3/train_2016.csv
